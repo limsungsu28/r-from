@@ -36,3 +36,6 @@ r-from-csharp/.vs
 r-from-csharp/packages
 r-from-csharp/r-from-csharp/bin
 r-from-csharp/r-from-csharp/obj
+.Rproj.user
+
+README.html
