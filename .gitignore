@@ -31,3 +31,8 @@ vignettes/*.pdf
 # Temporary files created by R markdown
 *.utf8.md
 *.knit.md
+
+r-from-csharp/.vs
+r-from-csharp/packages
+r-from-csharp/r-from-csharp/bin
+r-from-csharp/r-from-csharp/obj
